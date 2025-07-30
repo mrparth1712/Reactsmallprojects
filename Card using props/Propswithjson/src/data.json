@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Avengers: Endgame",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+    "lastUpdated": "SUN 8 SEPT – 10:00 PM",
+    "running_time": "2HR 08MIN"
+  },
+  {
+    "name": "The Dark Knight",
+    "rating": 9.0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "lastUpdated": "MON 12 SEPT – 08:30 PM",
+    "running_time": "2HR 32MIN"
+  },
+  {
+    "name": "Inception",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "lastUpdated": "TUE 15 SEPT – 09:15 PM",
+    "running_time": "2HR 28MIN"
+  },
+  {
+    "name": "Interstellar",
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "lastUpdated": "WED 16 SEPT – 07:45 PM",
+    "running_time": "2HR 49MIN"
+  },
+  {
+    "name": "Parasite",
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "lastUpdated": "THU 17 SEPT – 09:30 PM",
+    "running_time": "2HR 12MIN"
+  },
+  {
+    "name": "Joker",
+    "rating": 8.4,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "lastUpdated": "FRI 18 SEPT – 10:00 PM",
+    "running_time": "2HR 02MIN"
+  },
+  {
+    "name": "Fight Club",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "lastUpdated": "SAT 19 SEPT – 11:00 PM",
+    "running_time": "2HR 19MIN"
+  },
+  {
+    "name": "Forrest Gump",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "lastUpdated": "SUN 20 SEPT – 06:30 PM",
+    "running_time": "2HR 22MIN"
+  },
+  {
+    "name": "The Matrix",
+    "rating": 8.7,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "lastUpdated": "MON 21 SEPT – 07:45 PM",
+    "running_time": "2HR 16MIN"
+  },
+  {
+    "name": "Gladiator",
+    "rating": 8.5,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "lastUpdated": "TUE 22 SEPT – 08:00 PM",
+    "running_time": "2HR 35MIN"
+  },
+  {
+    "name": "The Prestige",
+    "rating": 8.5,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+    "lastUpdated": "WED 23 SEPT – 07:00 PM",
+    "running_time": "2HR 10MIN"
+  },
+  {
+    "name": "Whiplash",
+    "rating": 8.5,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "lastUpdated": "THU 24 SEPT – 09:00 PM",
+    "running_time": "1HR 47MIN"
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "rating": 8.4,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "lastUpdated": "FRI 25 SEPT – 10:15 PM",
+    "running_time": "2HR 29MIN"
+  },
+  {
+    "name": "Titanic",
+    "rating": 7.9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "lastUpdated": "SAT 26 SEPT – 05:30 PM",
+    "running_time": "3HR 15MIN"
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "rating": 9.3,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7buJqgjC7LosEil3XcV6cOYcyQcpcRQtzaw&s",
+    "lastUpdated": "SUN 27 SEPT – 08:00 PM",
+    "running_time": "2HR 22MIN"
+  },
+  {
+    "name": "Pulp Fiction",
+    "rating": 8.9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "lastUpdated": "MON 28 SEPT – 09:15 PM",
+    "running_time": "2HR 34MIN"
+  },
+  {
+    "name": "Django Unchained",
+    "rating": 8.4,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+    "lastUpdated": "TUE 29 SEPT – 10:45 PM",
+    "running_time": "2HR 45MIN"
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "rating": 8.2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+    "lastUpdated": "WED 30 SEPT – 07:15 PM",
+    "running_time": "3HR 00MIN"
+  },
+  {
+    "name": "Iron Man",
+    "rating": 7.9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_.jpg",
+    "lastUpdated": "THU 1 OCT – 06:00 PM",
+    "running_time": "2HR 06MIN"
+  },
+  {
+    "name": "Black Panther",
+    "rating": 7.3,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg",
+    "lastUpdated": "FRI 2 OCT – 08:00 PM",
+    "running_time": "2HR 14MIN"
+  },
+  {
+    "name": "Doctor Strange",
+    "rating": 7.5,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_.jpg",
+    "lastUpdated": "SAT 3 OCT – 09:45 PM",
+    "running_time": "1HR 55MIN"
+  }
+]
